@@ -8,7 +8,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/sumitsantape30/White-Board">
-        <img style="border-radius:50%" src="https://github.com/sumitsantape30/Jira-Ticket-Management-Web-App/blob/main/image/download.jpg" alt="Logo" width="400" height="300"> 
+        <img style="border-radius:50%" src="https://github.com/sumitsantape30/Jira-Ticket-Management-Web-App/blob/main/image/download.jpg" alt="Logo" width="300" height="300"> 
 </p>
  
     
