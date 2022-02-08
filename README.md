@@ -37,10 +37,7 @@ Checkout the demo video of the project
 - [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://javascript.info/)
-- [Node.js](https://nodejs.dev/learn)
-- [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
-- [Socket.io](https://socket.io/docs/v4/)
-- [Express.js](https://expressjs.com/)
+- [Local Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 
 ## 💻 Author
