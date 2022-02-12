@@ -1,4 +1,4 @@
-## 🚀 Jira Ticket Management Web App
+## 🚀 Chores Hub
 
 <p align="center">
 <br>
@@ -14,7 +14,7 @@
     
 ## 📌 Introduction 
 
-- **White Board** is an interactive digital whiteboard web application.
+- **Chores Hub** is an digital task managing web application.
 - It lets user to write anything on the board using the **Pen**, the user can choose the **color of the Pen**, there are 4 colors **(Black, Blue, Green, Red)** user can choose any of these colors and write using it. The user can also change the width of the pencil by setting the **range**.
 - The user can erase the the data written on the board using **Eraser**. The width of the eraser can also be increased by setting the **range**.
 - If user wants to download the content written on the board then **Download Button** helps in dowloading the content user has written on the board. The files downloaded are in the **JPG format**.
