@@ -10,7 +10,11 @@
     <a href="https://github.com/sumitsantape30/Chores-Hub">
         <img style="border-radius:50%" src="https://github.com/sumitsantape30/Chores-Hub/blob/main/image/download.jpg" alt="Logo" width="300" height="300"> 
 </p>
-     
+   
+ 
+## 🎯 Purpose of the Project
+ To begin with, like most employees, you have at least 20 different tasks and activities in your to-do list for the day. Now, not every task in your list holds the same significance or priority as the other. Some of them are urgent and some of them can easily be taken care of later in the day. This is where task management and time management prove most useful. Task management is deemed extremely important for every project manager and team because it allows them to keep a close eye on their priorities and become more productive each day.
+ 
     
 ## 📌 Introduction 
 
@@ -35,11 +39,7 @@
 
 Checkout the demo video of the project
 
-    
-## 🎯 Purpose of the Project
- To begin with, like most employees, you have at least 20 different tasks and activities in your to-do list for the day. Now, not every task in your list holds the same significance or priority as the other. Some of them are urgent and some of them can easily be taken care of later in the day. This is where task management and time management prove most useful. Task management is deemed extremely important for every project manager and team because it allows them to keep a close eye on their priorities and become more productive each day.
-
-
+ 
 ## 🏛️ Tech Used
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
