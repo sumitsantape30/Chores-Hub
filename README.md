@@ -10,17 +10,22 @@
     <a href="https://github.com/sumitsantape30/Chores-Hub">
         <img style="border-radius:50%" src="https://github.com/sumitsantape30/Jira-Ticket-Management-Web-App/blob/main/image/download.jpg" alt="Logo" width="300" height="300"> 
 </p>
- 
+     
     
 ## 📌 Introduction 
 
-- **Chores Hub** is an digital task managing web application.
-- It lets user to write anything on the board using the **Pen**, the user can choose the **color of the Pen**, there are 4 colors **(Black, Blue, Green, Red)** user can choose any of these colors and write using it. The user can also change the width of the pencil by setting the **range**.
-- The user can erase the the data written on the board using **Eraser**. The width of the eraser can also be increased by setting the **range**.
-- If user wants to download the content written on the board then **Download Button** helps in dowloading the content user has written on the board. The files downloaded are in the **JPG format**.
-- The user can upload the pictures using **Upload Button** for using them on the board.
-- The sticky notes can also be created by using **Sticky Notes Button**. These sticky notes can be **drag** and **drop** anywhere in the board. The user can **minimise** and **delete** the sticky notes by clicking on their respective buttons. To create the **multiple sticky notes** the user can simply double click on the Sticky Notes Button. 
-- The **Undo** button helps to reverse the action of an earlier action and **Redo** button restores any actions that were previously undone using an undo.
+- **Chores Hub** is a web based task managing application.
+- It allows everyday users and businesses to manage their to-do lists in the most efficient manner.
+- It provides you with the tool to **filter** the tasks based on your priority.
+- If I click on the **add button(+)** a **modal** will be appeared on the screen, and I can enter the task in my modal/ticket. After adding the task I can set the priority of the task by choosing appropriate color.
+- After you're done with entering task and choosing proper color, press on the **Shift key** and now my ticket will be generated. My each ticket will have a **unique id** and it's **Priority Color** on the top of the ticket.
+- If you want to change the priority of the task you can do that by clicking on the color **strip on top of the ticket** and choose the color you wish to have that ticket.
+- After generating a ticket the text in my ticket will be **read only**, since my ticket got locked after generating the ticket.
+- If I want to **edit the task** then I need to unlock my ticket by clicking on the **lock icon**.
+- After unlocking the ticket I can edit the task and lock the ticket again.
+- If I add a ticket by default my ticket will have black color priority. 
+- When you're done with your task and now want to **remove** that task, you can do that by clicking on the **X button**. After pressing the **X button** my remove button will be **activated**, now click on the ticket which you want to remove, and that ticket will be removed. For **deactivating the remove(X) button** click on the X button again and my remove button will be deactivated.
+    
 
     
 ## 📷 Live Demo 
@@ -29,7 +34,7 @@ Checkout the demo video of the project
 
     
 ## 🎯 Purpose of the Project
- The project aims to help teachers to interact with students directly on the screen using a tool or even a mouse. This will surely take online teaching on the next level and help both teachers and students. Digital Interactive Whiteboards have been proven to encourage a more interactive and engaging learning experience to the students. On top of offering engaging experience, digital white board also makes the learning and classes more enjoyable.
+ To begin with, like most employees, you have at least 20 different tasks and activities in your to-do list for the day. Now, not every task in your list holds the same significance or priority as the other. Some of them are urgent and some of them can easily be taken care of later in the day. This is where task management and time management prove most useful. Task management is deemed extremely important for every project manager and team because it allows them to keep a close eye on their priorities and become more productive each day.
 
 
 ## 🏛️ Tech Used
@@ -39,7 +44,7 @@ Checkout the demo video of the project
 - [JavaScript](https://javascript.info/)
 - [Local Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
-
+    
 ## 💻 Author
 
 Created with 💖 by :
