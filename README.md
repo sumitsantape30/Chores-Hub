@@ -31,7 +31,7 @@
 - When you're done with your task and now want to **remove** that task, you can do that by clicking on the **X button**. After pressing the **X button** my remove button will be **activated**, now click on the ticket which you want to remove, and that ticket will be removed. For **deactivating the remove(X) button** click on the X button again and my remove button will be deactivated.
 - Now suppose there are multiple tickets generated on my app and I want to see the **tasks of a particular priority only**, then I can do that by clicking on one of the priority **colors in toolbox** in the navbar. Now all of my tickets of the priority color I chose from toolbox will be appeared and now I can manage them.
 - If I **double click** on any priority color then all of my tickets of all the priorities will be appeared on the screen.
-- Let's say we have multiple tickets generated on the screen and now I refresh my screen, none of my tickets will be disappeared. Every ticket will be as it is with their priority color as well. As, they are stored in the local storage of the browser.
+- Let's say we have multiple tickets generated on the screen and now I refresh my screen, none of my tickets will be disappeared. Every ticket will be as it is with their priority color as well. As, they are stored in the **local storage of the browser**.
     
 
     
